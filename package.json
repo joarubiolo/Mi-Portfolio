@@ -1,0 +1,21 @@
+{
+  "name": "joaquin-rubiolo-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio profesional de Data Science para Joaquin Rubiolo",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "preview": "python -m http.server 8000"
+  },
+  "keywords": [
+    "portfolio",
+    "data-science",
+    "machine-learning",
+    "analytics"
+  ],
+  "author": "Joaquin Rubiolo",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
